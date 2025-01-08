@@ -26,9 +26,7 @@ A simple chess game built using **Express.js**, **Node.js**, and **Socket.IO**. 
 ## Installation and Setup
 
 1. **Clone the Repository**
-   ```bash
    git clone https://github.com/Atrijo11/Grandmaster.io.git
-   cd realtime-chess
    
 2. Install Dependencies
     npm install
